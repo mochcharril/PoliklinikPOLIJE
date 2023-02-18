@@ -1,2 +1,66 @@
-Informasi Progess
- - Membuat repository
+INFORMASI SIM KLINIK 
+
+CO Workshop Bagian Programmer / Koding
+1. Pendaftaran Pasien Umum
+ A. Input terdiri dari :
+   NIK (Primary Key)
+   Nama
+   TTL
+   Alamat
+   Jaminan Kesehatan
+   Umur
+   Tanggal Masuk
+   telepon
+   Pekerjaan
+   Status kawin
+ B. Proses
+   Input Data Pasien umum
+   Input data pasien baru dan lama
+ C. Output
+   Nomor RM 
+   Laporan Kunjungan
+   KIB
+ D. Data Poli
+   Poli umum, gigi dan KIA
+
+2. Pelayanan Poli Umum
+ A. Input
+  1). Data antrean pasien
+    Nama
+    no RM
+    NIK
+    TTL
+    Tgl Masuk
+    Jaminan Kesehatan
+  2). Data pemeriksaan
+    Diagnosa 
+    Anamnesa
+    Tindakan
+    Tensi
+    Tanda Vital
+  3). Data Obat
+    Nama obat
+    dosis
+    jam order
+ B. Proses
+   Input data pemeriksaan
+   Input data obat dan order
+ C. Output
+   RME
+   Resep
+ 
+3. Farmasi
+ A. Input 
+   Data obat
+     id obat
+     nama obat
+     stok obat
+     exp
+     dosis
+ B. Proses
+   Proses order dari dokter
+ C. Output
+   Laporan Stock
+   Penggunaan obat
+  
+BISA DILIHAT DI GRUP SELEBIHNYA MENGENAI BAGAN ALUR
